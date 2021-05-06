@@ -1,0 +1,25 @@
+[debug] [2021-04-09T06:36:45.027Z] ----------------------------------------------------------------------
+[debug] [2021-04-09T06:36:45.030Z] Command:       D:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-09T06:36:45.030Z] CLI Version:   9.9.0
+[debug] [2021-04-09T06:36:45.030Z] Platform:      win32
+[debug] [2021-04-09T06:36:45.031Z] Node Version:  v14.8.0
+[debug] [2021-04-09T06:36:45.032Z] Time:          Fri Apr 09 2021 13:36:45 GMT+0700 (Indochina Time)
+[debug] [2021-04-09T06:36:45.032Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-09T06:36:45.039Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-09T06:36:45.039Z] > authorizing via signed-in user (htfsamuel25@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Hactiv8\phase 2\week 2\kanban-client\client
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
